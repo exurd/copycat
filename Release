@@ -1,0 +1,9 @@
+Origin: exurd's test repo
+Label:Don't be a copycat!
+Suite: unstable
+Version: 6.1.6
+Codename:copycat
+Architectures: iphoneos-arm
+Components: main
+Description:Test Repo #1 by exurd
+MD5Sum:
