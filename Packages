@@ -2,7 +2,7 @@ Package: com.exurd.suicidelinuxdebtest
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: :exurd:
-Filename: https://exurd.github.io/copycat/debs/suicide-linux_1.1-i386.deb
+Filename: debs//suicide-linux_1.1-i386.deb
 Size: 2 KB
 MD5sum: 02C8DC1FFAA7E375C1F1AF76DFA22A71
 SHA1: EE03C57C7119F78A2B77147C21DD4892635C758C
@@ -17,7 +17,7 @@ Package: com.null.null
 Version: null
 Architecture: iphoneos-arm
 Maintainer: null
-Filename: https://exurd.github.io/copycat/debs/null
+Filename: debs//null
 Size: 0 KB
 MD5sum: D41D8CD98F00B204E9800998ECF8427E
 SHA1: DA39A3EE5E6B4B0D3255BFEF95601890AFD80709
