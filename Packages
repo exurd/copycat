@@ -2,7 +2,7 @@ Package: com.exurd.suicidelinuxdebtest
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: :exurd:
-Filename: http://copycat.github.io/debs/suicide-linux_1.1-i386.deb
+Filename: https://exurd.github.io/copycat/debs/suicide-linux_1.1-i386.deb
 Size: 2 KB
 MD5sum: 02C8DC1FFAA7E375C1F1AF76DFA22A71
 SHA1: EE03C57C7119F78A2B77147C21DD4892635C758C
@@ -10,5 +10,5 @@ SHA256: 970EB3ECA415B9F5B39A8B5A61E11C5051395A48A856566786C88BEC1CBD9F84
 Section: Testing
 Description: TESTING TESTING 1 2 3 ONE TWO THREE
 Author: :exurd: <alastercaslin@gmail.com>
-Depiction: http://exurd.github.io/depic/suicide-linux_1.1-i386/index.html
+Depiction: https://exurd.github.io/copycat/depic/suicide-linux_1.1-i386/index.html
 Name: Suicide Linux (Test .deb)
